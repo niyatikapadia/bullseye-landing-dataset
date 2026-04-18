@@ -1,0 +1,6 @@
+ultralytics>=8.0.0
+opencv-python>=4.5.0
+pymavlink>=2.4.0
+mavsdk>=1.4.0
+numpy>=1.21.0
+

@@ -1,0 +1,11 @@
+dataset/
+original_images/
+navo_original_images/
+combined_dataset/
+navo_dataset*/
+preview/
+__pycache__/
+*.pyc
+*.cache
+debug_raw_frame.jpg
+runs/
